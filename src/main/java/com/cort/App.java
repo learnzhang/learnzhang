@@ -11,5 +11,6 @@ public class App
 
         System.out.println( "Hello World!" );
         System.out.println("this is my first maven project");
+        System.out.println("again");
     }
 }
