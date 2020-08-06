@@ -14,3 +14,7 @@ public class App
         System.out.println("again");
     }
 }
+/*
+    解决IDEA push失败的原因
+    打开Git Bash，然后进入相应的目录，然后敲git命令：
+        $ git pull origin master --allow-unrelated-histories*/
